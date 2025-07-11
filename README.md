@@ -120,15 +120,8 @@ curl http://localhost:4040/api/store/users/test-key
 
 ---
 
-## 📚 License
-
-**DonutDB License v3**:
-
-* Attribution required (@unknownmsv)
-* Modifications must be open-sourced
-* Commercial use must be disclosed
-
-See `LICENSE` file for full terms.
+DonutDB is licensed under the AGPL-3.0 License with extra attribution requirements.  
+See [LICENSE](./LICENSE) for full terms.
 
 ---
 
