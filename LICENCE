@@ -1,31 +1,54 @@
-# DonutDB License (Based on GNU AGPL v3)
+# DonutDB License (AGPLv3 + Ethical Clauses)
 
-Copyright (c) 2025 unknownmsv (https://github.com/unknownmsv)
+Copyright (c) 2025 Sina "unknownmsv" Mousavi (https://github.com/unknownmsv)
 
-This program is free software: you can redistribute it and/or modify  
-it under the terms of the GNU Affero General Public License as published by  
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published by
 the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-This program is distributed in the hope that it will be useful,  
-but WITHOUT ANY WARRANTY; without even the implied warranty of  
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the  
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU Affero General Public License for more details.
 
-You should have received a copy of the GNU Affero General Public License  
+You should have received a copy of the GNU Affero General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 ---
 
-## Additional Terms (DonutDB Notice)
+## Additional Terms for DonutDB:
 
-- All derivative works **must retain attribution** to the original author: `unknownmsv`
-- Any **commercial use** (including SaaS, hosted DB-as-a-service, or packaged resale) must:
-  1. Provide **clear attribution** in the UI, documentation, and marketing materials
-  2. **Notify the original author** within 30 days via GitHub (https://github.com/unknownmsv)
-- You may not remove or obfuscate any license, credit, or authorship references.
+1. **Attribution Requirement**:
+   - All copies and derivative works must retain visible attribution:
+     - In software: "Powered by DonutDB (github.com/unknownmsv/DonutDB)"
+     - In documentation: Clear credit on first page
+
+2. **Commercial Use Notification**:
+   - Commercial users must notify the author via:
+     - GitHub issue (github.com/unknownmsv/DonutDB/issues)
+     - OR email to donutdb@unknownmsv.ir
+   - Within 30 days of first production use
+
+3. **Modification Rules**:
+   - Modified versions must:
+     - Use distinct branding (cannot be called "DonutDB")
+     - Document all changes in a CHANGELOG file
+     - Pass original test suite
+
+4. **SaaS Requirements**:
+   - Hosted services must:
+     - Display attribution in web interface
+     - Offer corresponding source code
+     - Disclose DonutDB usage to customers
+
+5. **Enforcement**:
+   - Violations result in 30-day cure period
+   - After which license terminates automatically
+   - Will be listed on project's Hall of Shame
 
 ---
 
-## Repository
+Repository: https://github.com/unknownmsv/DonutDB
+Contact: donutdb@unknownmsv.ir
 
-https://github.com/unknownmsv/DonutDB
+---
