@@ -1,63 +1,31 @@
-# DonutDB License v3
-**Copyright (c) 2025 unknownmsv (GitHub: [unknownmsv](https://github.com/unknownmsv))**
+# DonutDB License (Based on GNU AGPL v3)
 
-This software and associated documentation files (the "Software") are provided under the following terms and conditions. By using, copying, modifying, or distributing the Software, you agree to be bound by these terms.
+Copyright (c) 2025 unknownmsv (https://github.com/unknownmsv)
 
----
+This program is free software: you can redistribute it and/or modify  
+it under the terms of the GNU Affero General Public License as published by  
+the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
-### 1. Definitions
-- **"Software"**: Refers to DonutDB, including all source code, binaries, documentation, and associated files in the repository ([https://github.com/unknownmsv/DonutDB](https://github.com/unknownmsv/DonutDB)).
-- **"Derivative Works"**: Any work based on the Software, including modifications, enhancements, or integrations with other software.
-- **"Distribution"**: Any act of sharing, selling, or making the Software or Derivative Works available to others.
+This program is distributed in the hope that it will be useful,  
+but WITHOUT ANY WARRANTY; without even the implied warranty of  
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the  
+GNU Affero General Public License for more details.
 
----
-
-### 2. Grant of License
-Permission is hereby granted, free of charge, to any person obtaining a copy of the Software to use, copy, modify, merge, publish, or distribute the Software, subject to the following conditions:
-- **Attribution**: You must include the above copyright notice, this license, and a clear acknowledgment of the original author (**unknownmsv**) and the project name (**DonutDB**) in all copies, Derivative Works, or Distributions. This acknowledgment must be visible in the documentation, user interface, or "About" section of any project using the Software.
-- **Source Code Availability**: If you modify the Software and distribute it or any Derivative Works, you must make the source code of your modifications available under the same DonutDB License v3, at no additional cost, and provide a link to the original repository ([https://github.com/unknownmsv/DonutDB](https://github.com/unknownmsv/DonutDB)).
-- **Contribution Encouragement**: You are strongly encouraged to submit major modifications or improvements to the Software as pull requests to the original repository.
+You should have received a copy of the GNU Affero General Public License  
+along with this program. If not, see <https://www.gnu.org/licenses/>.
 
 ---
 
-### 3. Commercial Use
-- Commercial use of the Software is permitted only if:
-  - You provide explicit attribution to **unknownmsv** and **DonutDB** in all marketing materials, documentation, and user interfaces of the commercial product.
-  - You notify the original author (via GitHub: [unknownmsv](https://github.com/unknownmsv)) of the commercial use within 30 days of deployment.
-  - Any Derivative Works distributed commercially must include the source code under this license, as specified in Section 2.
-- Failure to comply with these terms will result in the termination of the license for commercial use.
+## Additional Terms (DonutDB Notice)
+
+- All derivative works **must retain attribution** to the original author: `unknownmsv`
+- Any **commercial use** (including SaaS, hosted DB-as-a-service, or packaged resale) must:
+  1. Provide **clear attribution** in the UI, documentation, and marketing materials
+  2. **Notify the original author** within 30 days via GitHub (https://github.com/unknownmsv)
+- You may not remove or obfuscate any license, credit, or authorship references.
 
 ---
 
-### 4. Restrictions
-- **Prohibited Uses**: The Software may not be used in any project or application that promotes malicious, illegal, or unethical activities, as determined by the original author (**unknownmsv**).
-- **No Unattributed Distribution**: Distributing the Software or Derivative Works without including this license and attribution to the original author is strictly prohibited.
-- **No Removal of Notices**: You may not remove or alter any copyright, license, or attribution notices included in the Software.
+## Repository
 
----
-
-### 5. No Warranty
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
----
-
-### 6. Termination
-- Any violation of the terms of this license will result in the automatic termination of the permissions granted herein.
-- Upon termination, you must cease all use, distribution, and modification of the Software and destroy all copies in your possession.
-
----
-
-### 7. Governing Law
-This license shall be governed by and construed in accordance with the laws of [your country or jurisdiction, e.g., "the Islamic Republic of Iran"], without regard to its conflict of law provisions.
-
----
-
-### 8. Contact
-For inquiries, contributions, or notifications of commercial use, please contact the author via GitHub ([unknownmsv](https://github.com/unknownmsv)) or open an issue/pull request in the repository.
-
-**Repository**: [https://github.com/unknownmsv/DonutDB](https://github.com/unknownmsv/DonutDB)
-
----
-
-**DonutDB License v3**  
-**Effective Date**: June 26, 2025
+https://github.com/unknownmsv/DonutDB
